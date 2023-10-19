@@ -4,5 +4,7 @@
 *.class
 *.ipynb
 *.zip
+*.7z
+.venv
 
-
+EatWhat.py
