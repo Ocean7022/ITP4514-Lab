@@ -2,9 +2,9 @@
 *.doc
 *.pdf
 *.class
-*.ipynb
 *.zip
 *.7z
 .venv
+venv
 
 EatWhat.py
