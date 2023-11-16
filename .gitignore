@@ -1,9 +1,11 @@
 *.docx
 *.doc
 *.pdf
+*.png
 *.class
 *.zip
 *.7z
+.vscode
 .venv
 venv
 
